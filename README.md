@@ -2,4 +2,4 @@
 
 ## Editng the File
 
-its a markdown file in this respository.
+It's a markdown file in this respository.
