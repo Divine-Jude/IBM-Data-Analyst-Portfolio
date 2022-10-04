@@ -2,5 +2,5 @@
 
 ## Editng the File
 
-Analyzing Historical Stock/Revenue Data and Building a Dashboard
+Learning material for relational database concepts, building and running SQL queries, accessing databases using Jupiter notebooks using SQL and Python.
 
