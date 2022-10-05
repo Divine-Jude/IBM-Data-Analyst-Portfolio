@@ -1,6 +1,6 @@
 -- Drop the table in case it exists
 
-DROP TABLE BankAccounts;
+--DROP TABLE BankAccounts;
 
 -- Create the table
 
@@ -20,7 +20,10 @@ INSERT INTO BankAccounts VALUES
 ('B004','Corner Shop',76000);
 
 -- Retrieve all records from the table
-
+--
 SELECT * FROM BankAccounts;
+
+
+
 
 
