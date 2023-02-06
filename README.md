@@ -1,7 +1,6 @@
 # IBM-Data-Analyst-Capstone-Project 
- <div align="left">
-   <img src="https://images.credly.com/size/110x110/images/f02ecb21-5237-4974-b259-0a8f74675c59/Data_Analyst_Capstone.png" width="200px"</i![Annotation 2023-02-05 220846](https://user-images.githubusercontent.com/95667763/216855595-69882535-9585-4792-8c34-3d6bf1ae1dde.png)
-mg> 
+ <div align="Center">
+![Annotation 2023-02-05 220846](https://user-images.githubusercontent.com/95667763/216855632-eb0629d9-ffe9-42f4-a2b9-abb0aeec930f.png)
 </div>
     
 ## Stack Overflow Developer Survey 2019
