@@ -1,7 +1,6 @@
 # IBM-Data-Analyst-Capstone-Project 
- <div align="Center">
 ![Annotation 2023-02-05 220846](https://user-images.githubusercontent.com/95667763/216855632-eb0629d9-ffe9-42f4-a2b9-abb0aeec930f.png)
-</div>
+
     
 ## Stack Overflow Developer Survey 2019
 You have recently been hired as a Data Analyst by a global IT and business consulting services firm that is known for their expertise in IT solutions and their team of highly experienced IT consultants.  In order to keep pace with changing technologies and remain competitive, your organization regularly analyzes data to help identify future skill requirements. 
