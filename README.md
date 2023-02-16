@@ -35,7 +35,6 @@ Once this is completed, you will make that data ready for analysis using data wr
 
 When the data is ready you will then want to apply statistical techniques to analyze the data.  Then bring all of your information together by using  IBM Cognos Analytics to create your dashboard. And finally, show off your storytelling skills by sharing your findings in a presentation.
 
-You will be evaluated using quizzes in each module as well as the final project presentation.
 
 
 
