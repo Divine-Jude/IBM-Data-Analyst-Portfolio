@@ -23,6 +23,9 @@ Once you have collected enough data, you will begin analyzing the data and ident
 
 - What are the popular IDEs?
 
+![image](https://github.com/Divine-Jude/IBM-Data-Analyst-Portfolio/assets/95667763/4543645a-46e6-4429-84d1-6907b6387131)
+
+
 You will begin by scraping internet web sites and accessing APIs to collect data in various formats like .csv files, excel sheets, and databases.   
  
  
